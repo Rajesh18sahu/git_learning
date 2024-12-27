@@ -2,8 +2,4 @@
 
 This repo is only to be used to learn git and github
 
-This is Second time change i am doing in readme file.
-
-this is third change i am doing in readme file.
-
-this is third change i did in readme file. and my parent has only seconde change.
+Deleted three line in local File and made push.
