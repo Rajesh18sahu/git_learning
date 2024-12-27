@@ -1,7 +1,0 @@
-Hi Rajesh
-
-I am going to upload/share this text file into git_learning repo.
-
-Thanks
-
-Please go throgh it for further information.
